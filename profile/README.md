@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![電撃ショートコント劇場](./assets/default_poster.png)
+![電撃ショートコント開発劇：MoodPalette Synthの軌跡](./assets/current_app_poster.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Curtain raised at: 2026-11-16T14:32:42.065548Z UTC (開演速報)*
+*Curtain raised at: 2026-11-16T14:49:03.935678Z UTC (開演速報)*
